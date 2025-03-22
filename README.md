@@ -1,3 +1,3 @@
 # Calculator
 
-LIVE VIEW - https://smrid.github.io/Calculator/
+Live view - https://smrid.github.io/Calculator/
